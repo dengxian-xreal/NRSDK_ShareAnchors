@@ -21,14 +21,14 @@ https://youtu.be/a7L2hzYBaK8
 Below is how you should use this APK. 
 
 1. click button *OpenAnchorPanel*
- ![image](https://github.com/dengxian-xreal/NRSDK_ShareAnchors/assets/134575521/bd430422-a503-45a7-b7fb-9a212c0b066e)
+  ![image](https://github.com/dengxian-xreal/NRSDK_ShareAnchors/assets/134575521/bd430422-a503-45a7-b7fb-9a212c0b066e)
 2. Click an anchor
 
-![image](https://github.com/dengxian-xreal/NRSDK_ShareAnchors/assets/134575521/a13aa5e8-bc2e-4b10-b494-d7c1caf63cd2)
+  ![image](https://github.com/dengxian-xreal/NRSDK_ShareAnchors/assets/134575521/a13aa5e8-bc2e-4b10-b494-d7c1caf63cd2)
 
 3. Place it in any position (not in places with few features, such as a clean wall).
 
-![image](https://github.com/dengxian-xreal/NRSDK_ShareAnchors/assets/134575521/98207d5f-a9cd-4b76-9b96-d780a2457fbc)
+  ![image](https://github.com/dengxian-xreal/NRSDK_ShareAnchors/assets/134575521/98207d5f-a9cd-4b76-9b96-d780a2457fbc)
 
 4. According to the instructions, observe the anchor (mapping in progress) until all guidance bars turn green (mapping successful), then click ✅ (save anchor).
 
