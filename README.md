@@ -13,7 +13,7 @@ However, the tutorial is quite cumbersome. This project has all the Photon and A
 
 This project is configured to support the following devices:
 - XREAL Air 2 Ultra
-- XREAL Air Light
+- XREAL Light
 
 ## Have a try
 
