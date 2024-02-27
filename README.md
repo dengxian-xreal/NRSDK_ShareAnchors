@@ -6,6 +6,9 @@ This project demonstrates the implementation of spatial anchors using NRSDK 2.2 
 
 Follow the [NRSDK Spatial Anchor Sharing Tutorial](https://xreal.gitbook.io/nrsdk/development/spatial-anchor/tutorial-sharing-anchors) to understand how the project is structured and how to use the provided scripts.
 
+However, the tutorial is quite cumbersome. This project has all the Photon and Aliyun OSS SDKs installed, and all scripts have been modified, so you can directly clone and use them.
+
+
 ## Supported Devices
 
 This project is configured to support the following devices:
