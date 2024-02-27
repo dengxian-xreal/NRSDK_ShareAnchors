@@ -18,7 +18,9 @@ This project is configured to support the following devices:
 ## Have a try
 
 Before clone this project, you may want to have a try about this project, you can go to release to download the built apk.
+
 In order to facilitate the understanding of the whole process and see the effect, I also took a video, but it is not convenient to operate with one hand, and there are places where buttons were accidentally touched, so you should mainly follow the following steps. In addition, in order to facilitate the demonstration, the video shows sharing an anchor between a mobile phone and a Unity project. You can also operate like this during debugging. Generally, if it is successful in this way, and it can also be successful on two mobile phones.
+
 https://youtu.be/a7L2hzYBaK8
 
 Below is how you should use this APK. 
